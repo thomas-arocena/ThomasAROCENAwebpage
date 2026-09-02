@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Thomas AROCENA"
+  image: man/figure/logo.png
+  favicon: man/figures/logo.png
+  open-graph: true
+  navbar:
+    logo: man/figures/logo.png
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: lumen
+    toc: true
+
+
+
