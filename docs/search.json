@@ -2,15 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Thomas AROCENA",
+    "title": "Thomas Arocena",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Étudiant en école d’ingénieur, je m’intéresse aux mathématiques fondamentales, aux probabilités et aux statistiques, ainsi qu’à leurs applications en santé."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "objectID": "index.html#formation",
+    "href": "index.html#formation",
+    "title": "Thomas Arocena",
+    "section": "Formation",
+    "text": "Formation\nFaculté des Sciences et Technologies (Université de Lorraine) — M2 Mathématiques fondamentales et appliquées\nSept. 2026 – Juin 2027\nMines de Nancy — Diplôme d’Ingénieur Civil\nSept. 2023 – Juin 2027\nLycée Kléber — CPGE MPSI/MP*\nSept. 2021 – Juin 2023"
+  },
+  {
+    "objectID": "index.html#expériences",
+    "href": "index.html#expériences",
+    "title": "Thomas Arocena",
+    "section": "Expériences",
+    "text": "Expériences\nGustave Roussy — Stagiaire en statistiques\nJanv. 2026 – Mars 2026\nComparaison de méthodes de calcul de taille d’échantillon pour les essais cliniques. Page du projet →\nLORIA — Projet étudiant en méthodes formelles\nSept. 2024 – Juin 2025\nFormalisation d’eBPF en Lean 4. Répertoire du projet →"
+  },
+  {
+    "objectID": "index.html#compétences",
+    "href": "index.html#compétences",
+    "title": "Thomas Arocena",
+    "section": "Compétences",
+    "text": "Compétences\n\nLangages / outils : Python, R, Lean 4, LaTeX, Git\nDomaines : statistiques appliquées, probabilités, méthodes formelles"
   }
 ]
