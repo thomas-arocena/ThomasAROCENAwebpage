@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Thomas AROCENA"
+  title: "Thomas Arocena"
   image: man/figure/logo.png
   favicon: man/figures/logo.png
   open-graph: true
@@ -12,7 +12,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+        
 
 format:
   html:

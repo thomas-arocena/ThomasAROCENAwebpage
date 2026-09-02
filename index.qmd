@@ -1,7 +1,52 @@
 ---
-title: "Thomas AROCENA"
+title: Thomas Arocena
+image: man/figures/profile.jpg
+about:
+  template: solana
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/thomas-arocena
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/thomas-arocena/
+    - icon: envelope
+      text: Email
+      href: mailto:arocena.thomas@gmail.com
+    - icon: file-earmark-pdf
+      text: CV
+      href: cv.pdf
+    - icon: orcid
+      text: orcid
+      href: https://orcid.org/0009-0002-7014-220X
 ---
 
-This is a Quarto website.
+Étudiant en école d'ingénieur, je m'intéresse aux mathématiques fondamentales, aux probabilités et aux statistiques, ainsi qu'à leurs applications en santé.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Formation
+
+**Faculté des Sciences et Technologies (Université de Lorraine)** — M2 Mathématiques fondamentales et appliquées  
+*Sept. 2026 – Juin 2027*
+
+**Mines de Nancy** — Diplôme d'Ingénieur Civil  
+*Sept. 2023 – Juin 2027*
+
+**Lycée Kléber** — CPGE MPSI/MP\*  
+*Sept. 2021 – Juin 2023*
+
+## Expériences
+
+**Gustave Roussy** — Stagiaire en statistiques  
+*Janv. 2026 – Mars 2026*  
+Comparaison de méthodes de calcul de taille d'échantillon pour les essais cliniques. [Page du projet →](https://oncostat.github.io/sample-size-comparison/)
+
+**LORIA** — Projet étudiant en méthodes formelles  
+*Sept. 2024 – Juin 2025*  
+Formalisation d'eBPF en Lean 4. [Répertoire du projet →](https://github.com/thomas-arocena/ebpf-formalization-lean4)
+
+## Compétences
+
+- **Langages / outils** : Python, R, Lean 4, LaTeX, Git
+- **Domaines** : statistiques appliquées, probabilités, méthodes formelles
