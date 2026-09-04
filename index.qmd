@@ -42,13 +42,14 @@ about:
 *Janv. 2026 – Mars 2026*  
 Comparaison de méthodes de calcul de taille d'échantillon pour les essais cliniques. [Page du projet →](https://oncostat.github.io/sample-size-comparison/)
 
-**Spotlight Medical** — Stagiaire en Data Science 
+**Spotlight Medical** — Stagiaire en Data Science   
 *Juin. 2025 – Décembre 2025*  
-Devellopement d'un outil de visualisation, d'analyse et de modélisation de données cliniques.
+Développement d'un outil de visualisation, d'analyse et de modélisation de données cliniques.
 
 **LORIA** — Projet étudiant en méthodes formelles  
 *Sept. 2024 – Juin 2025*  
-Formalisation d'eBPF en Lean 4. [Répertoire du projet →](https://github.com/thomas-arocena/ebpf-formalization-lean4)
+Formalisation d'eBPF en Lean 4.  
+[Répertoire du projet →](https://github.com/thomas-arocena/ebpf-formalization-lean4)
 
 ## Compétences
 
