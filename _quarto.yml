@@ -5,7 +5,7 @@ project:
 website:
   title: "Thomas Arocena"
   description: "Étudiant ingénieur (Mines Nancy) et en M2 Mathématiques fondamentales et appliquées"
-  site-url: "https://thomas-arocena.github.io/ThomasAROCENAwebpage/"
+  site-url: "https://thomas-arocena.github.io/"
   image: man/figures/logo.png
   favicon: man/figures/logo.png
   open-graph: true
