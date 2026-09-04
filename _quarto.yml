@@ -20,6 +20,9 @@ format:
   html:
     theme: lumen
     toc: true
+    include-in-header:
+      - text: |
+          <meta name="google-site-verification" content="B8eNMsIupuFgkOLhe2UmZ-XE0_OrV1fGdeWwZl_juJc" />
 
 
 
